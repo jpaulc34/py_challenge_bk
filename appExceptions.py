@@ -1,0 +1,2 @@
+class Drowned(Exception):
+    pass
